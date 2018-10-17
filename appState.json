@@ -153,7 +153,8 @@
         "shouldPersist": false,
         "displayOnly": false
       }
-    ]
+    ],
+    "deletedFiles": []
   },
   "PROJECT_META": {
     "projectName": "hash-tag-counter",
@@ -161,12 +162,12 @@
     "projectVersion": "1.0.0",
     "projectRegion": "us-east-1",
     "platform": "AWS",
-    "lastSave": 1539787315635
+    "lastSave": 1539788088901
   },
   "VCS_STATE": {
     "provider": "GitHub",
     "repo": {
-      "name": "this-is-a-very-long-repository-name-to-test-the-effect-of-very-long-repository-names",
+      "name": "short-repo",
       "url": "https://github.com/sigmaidetest/this-is-a-very-long-repository-name-to-test-the-effect-of-very-long-repository-names"
     }
   }
